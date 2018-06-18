@@ -3,7 +3,7 @@ Finnish National Railways vintage train 3D models, created with BrickLink's Stud
 
 ## Passenger Car model [EIT](EIT/)
 
-Common 2. class passenger car model, [see in Wikipedia](https://fi.wikipedia.org/wiki/Eit,_Eip,_Ep_ja_Ein), produced during 1961 to 1985.
+Common 2. class passenger car model, [see in Wikipedia](https://fi.wikipedia.org/wiki/Eit,_Eip,_Ep_ja_Ein), produced during 1961-1985.
 
 BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43290
 
