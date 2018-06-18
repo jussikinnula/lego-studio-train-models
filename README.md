@@ -10,3 +10,5 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43290
 ## Passenger Car model [Rk](Rk/)
 
 Restaurant car model "golden walker" ([reference](https://fi.wikipedia.org/wiki/Siniset_vaunut), produced during 1975-1976.
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
