@@ -13,3 +13,13 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43290
 Restaurant car model "golden walker", [see in Wikipedia](https://fi.wikipedia.org/wiki/Siniset_vaunut), produced during 1975-1976.
 
 BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
+
+## Miscellaneous [Misc](Misc/)
+
+### Intermodal Car
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=44140
+
+### Green Cargo Container
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=44131
