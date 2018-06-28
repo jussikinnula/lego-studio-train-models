@@ -14,6 +14,10 @@ Restaurant car model "golden walker", [see in Wikipedia](https://fi.wikipedia.or
 
 BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
 
+### Diesel Engine Dv12 [Dv12](Dv12)
+
+Diesel engine class Dv12, [see in Wikipedia](https://studio.bricklink.com/v2/build/model.page?idModel=44321), produced during 1963-1984.
+
 ## Miscellaneous [Misc](Misc/)
 
 ### Intermodal Car
