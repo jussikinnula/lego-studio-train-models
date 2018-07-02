@@ -18,6 +18,10 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
 
 Diesel engine class Dv12, [see in Wikipedia](https://studio.bricklink.com/v2/build/model.page?idModel=44321), produced during 1963-1984.
 
+## Santa Fe [Santa Fe](Santa%20Fe/)
+
+Lego Santa Fe classics modeled with BrickLink Studio, so that they can be ordered more easily (currently work in progress).
+
 ## Miscellaneous [Misc](Misc/)
 
 ### Intermodal Car
