@@ -39,3 +39,7 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45114
 ### Train Station (Lego 7937) Extended - Platforms
 
 BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45115
+
+### Blue Passenger Carriage
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45110
