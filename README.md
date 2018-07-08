@@ -6,7 +6,7 @@
 
 Common 2. class passenger car model, [see in Wikipedia](https://fi.wikipedia.org/wiki/Eit,_Eip,_Ep_ja_Ein), produced during 1961-1985.
 
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43290
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45118
 
 ### Passenger Car model [Rk](Rk/)
 
@@ -16,7 +16,9 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
 
 ### Diesel Engine Dv12 [Dv12](Dv12)
 
-Diesel engine class Dv12, [see in Wikipedia](https://studio.bricklink.com/v2/build/model.page?idModel=44321), produced during 1963-1984.
+Diesel engine class Dv12, [see in Wikipedia](https://fi.wikipedia.org/wiki/Dv12), produced during 1963-1984.
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=44592
 
 ### Diesel Engine Hr13 [Hr13](Hr13)
 
