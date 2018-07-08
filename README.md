@@ -18,6 +18,10 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=43507
 
 Diesel engine class Dv12, [see in Wikipedia](https://studio.bricklink.com/v2/build/model.page?idModel=44321), produced during 1963-1984.
 
+### Diesel Engine Hr13 [Hr13](Hr13)
+
+Diesel engine class Hr13, [see in Wikipedia](https://fi.wikipedia.org/wiki/Dr13), produced during 1962-1965.
+
 ## Santa Fe [Santa Fe](Santa%20Fe/)
 
 Lego Santa Fe classics modeled with BrickLink Studio, so that they can be ordered more easily (currently work in progress).
