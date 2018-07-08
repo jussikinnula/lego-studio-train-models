@@ -31,3 +31,11 @@ BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=44140
 ### Green Cargo Container
 
 BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=44131
+
+### Train Station (Lego 7937) Extended
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45114
+
+### Train Station (Lego 7937) Extended - Platforms
+
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=45115
