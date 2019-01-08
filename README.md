@@ -46,11 +46,11 @@ BrickLink page (red/yellow - the original colouring): https://studio.bricklink.c
 
 BrickLink page (white/green - Today's colouring): https://studio.bricklink.com/v2/build/model.page?idModel=70550
 
-### Electric Engine Sr1 [Sr2](Sr2)
+### Electric Engine Sr2 [Sr2](Sr2)
 
 Electric engine class Sr2, [see in Wikipedia](https://en.wikipedia.org/wiki/VR_Class_Sr2), produced during 1995-2003.
 
-BrickLink page: https://studio.bricklink.com/v2/build/upload.page?type=public&idModel=57884
+BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=70945
 
 ## Santa Fe [Santa Fe](Santa%20Fe/)
 
