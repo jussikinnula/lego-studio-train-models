@@ -1,56 +1,8 @@
 # lego-studio-train-models
 
-## Finnish National Railways vintage train 3D models, created with BrickLink's Stud.io appilication
+## VR (Finnish State Railways)
 
-### 1st Class Passenger Car model [CI](CI/)
-
-1st class passenger car model, [see in Wikipedia](https://fi.wikipedia.org/wiki/Siniset_vaunut#CI), produced during 1975-1976.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=52251
-
-### 2nd Class Passenger Car model [EIT](EIT/)
-
-Common 2nd class passenger car model, [see in Wikipedia](https://fi.wikipedia.org/wiki/Eit,_Eip,_Ep_ja_Ein), produced during 1961-1985.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=52253
-
-### Passenger Car model [Rk](Rk/)
-
-Restaurant car model "golden walker", [see in Wikipedia](https://fi.wikipedia.org/wiki/Siniset_vaunut), produced during 1975-1976.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=52254
-
-### Sleeper Car model [CEmt](CEmt/)
-
-Sleeper car model "german carriage", [see in Wikipedia](https://fi.wikipedia.org/wiki/Siniset_vaunut#CEmt), produced during 1970–1984.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=52263
-
-### Diesel Engine Dv12 [Dv12](Dv12)
-
-Diesel engine class Dv12, [see in Wikipedia](https://fi.wikipedia.org/wiki/Dv12), produced during 1963-1984.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=50006
-
-### Diesel Engine Dr13 [Dr13](Dr13)
-
-Diesel engine class Dr13 (also known as Hr13), [see in Wikipedia](https://fi.wikipedia.org/wiki/Dr13), produced during 1962-1965.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=47895
-
-### Electric Engine Sr1 [Sr1](Sr1)
-
-Electric engine class Sr1, [see in Wikipedia](https://en.wikipedia.org/wiki/VR_Class_Sr1), produced during 1973-1985.
-
-BrickLink page (red/yellow - the original colouring): https://studio.bricklink.com/v2/build/model.page?idModel=70549
-
-BrickLink page (white/green - Today's colouring): https://studio.bricklink.com/v2/build/model.page?idModel=70550
-
-### Electric Engine Sr2 [Sr2](Sr2)
-
-Electric engine class Sr2, [see in Wikipedia](https://en.wikipedia.org/wiki/VR_Class_Sr2), produced during 1995-2003.
-
-BrickLink page: https://studio.bricklink.com/v2/build/model.page?idModel=70945
+The models have been moved to https://github.com/legojunat GitHub organization. There's also new models which didn't exist in this repository.
 
 ## Santa Fe [Santa Fe](Santa%20Fe/)
 
